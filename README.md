@@ -1,5 +1,5 @@
-# webpack2_config-ReactJs-Redux
-Config for webpack 2 fro using it with ReactJs, Redux and hot-reload
+# webpack2_boilerplate-ReactJs-Redux
+Config for webpack 2 for using it with ReactJs, Redux and hot-reload
 
 This is a template of configuration files for wepback2, babel and node server.
 After clonning this you need to run in directory 'npm i' and after 'npm i webpack -g'.
